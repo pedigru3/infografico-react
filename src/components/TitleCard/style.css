@@ -1,0 +1,15 @@
+.title-container {
+    position: relative;
+    margin-top: 20px;
+}
+
+.source{
+    position:absolute;
+    right: 0;
+    bottom: 8px;
+    font-size: 12px;
+}
+
+hr {
+    border: 1px solid green;
+}
